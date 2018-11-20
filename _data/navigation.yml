@@ -8,12 +8,9 @@ main:
 
   - title: "Awards"
     url: /awards/     
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
     
   - title: "Miscellaneous"
     url: /misc/
