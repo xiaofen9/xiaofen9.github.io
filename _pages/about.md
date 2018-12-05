@@ -21,7 +21,7 @@ Recent News
 
 * Oct 15, 2018. I attended the 25th ACM Conference on Computer and Communications Security held in Toronto, Canada.
 
-* Aug 9, 2018. I gave a talk about [SDN security](https://fxiao.me/publications/defcon26) on the 26th DEFCON Hacking Conference held in Las Vegas, United States.
+* Aug 9, 2018. I gave a talk about [SDN Security](https://fxiao.me/publications/defcon26) on the 26th DEFCON Hacking Conference held in Las Vegas, United States.
 
 
 

@@ -20,6 +20,7 @@ redirect_from:
 * ACM MobiCom Student Travel Grant 2017
 
 * LeiJun Scholarship (First class scholarship, top 1 out of 310)
+* Second Prize of National Undergraduate Security Contest
 
 
 ### 2016
@@ -36,5 +37,7 @@ redirect_from:
 * First Prize of BCTF 2015
 
 * Third Prize of 0CTF 2015
+
+* Second Prize of National SDN Developer Contest
 
 

@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Attacking Information Flows in the SDN Control Plane](http://fxiao.me/publications/sp20)</b> <br>
+<b>[Attacking Information Flows in the SDN Control Plane]()</b> <br>
 <b>Feng Xiao</b>, Jingquan Zhang, Jianwei Huang, Peng Liu, Guofei Gu, Dinghao Wu <br>
 <i>In submission to IEEE S&P 2020.</i>
 
