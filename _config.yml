@@ -11,7 +11,7 @@ title                    : "Feng's Page"
 title_separator          : "-"
 name                     : &name "Feng"
 description              : &description "Research Assistant at Pennstate"
-url                      : https://fxiao.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaofen9/xiaofen9.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ author:
   location         : "State College, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DYbE0ZQAAAAJ&hl=en"
-  email            :
+  email            : "f3i@t00ls.net"
   uri              :
   bitbucket        :
   codepen          :

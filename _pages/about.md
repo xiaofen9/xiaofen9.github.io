@@ -10,8 +10,5 @@ redirect_from:
 
 I am a research assistant at PennState since 2018. Before going to PennState, I was an undergraduate student at Wuhan University (GPA ranks 1st / 40).
 
-Recent News
-------
-xxx
 
 
