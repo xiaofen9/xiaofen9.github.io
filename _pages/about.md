@@ -17,7 +17,7 @@ My research interests are system and network security. I am also interested in t
 
 Recent News
 ====
-* Nov 15, 2018. I got my first car, which is a Mustang. [Take a look!](https://fxiao.me/files/mustang.jpg)!
+* Nov 15, 2018. I got my first car, which is a Mustang. [Take a look!](https://fxiao.me/files/mustang.jpg)
 
 * Oct 15, 2018. I attended the 25th ACM Conference on Computer and Communications Security held in Toronto, Canada.
 
