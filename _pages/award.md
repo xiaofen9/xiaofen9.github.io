@@ -11,15 +11,15 @@ redirect_from:
 
 ### 2018
 
-* ACM CCS Student Travel Grant 2018
+* ACM CCS Student Travel Grant
 
 * Rednor IST Fellowship
 
 ### 2017
 
-* ACM MobiCom Student Travel Grant 2017
+* ACM MobiCom Student Travel Grant
 
-* LeiJun Scholarship (First class scholarship, top 1 out of 310)
+* LeiJun Scholarship (First class scholarship, top 1 out of 310, 20000RMB)
 * Second Prize of National Undergraduate Security Contest
 
 
@@ -32,11 +32,11 @@ redirect_from:
 
 ### 2015
 
-* Yuanyi Scholarship (First class scholarship, top 1 out of 310)
+* Yuanyi Scholarship (First class scholarship, top 1 out of 310, 10000RMB)
 
-* First Prize of BCTF 2015
+* First Prize of BCTF
 
-* Third Prize of 0CTF 2015
+* Third Prize of 0CTF
 
 * Second Prize of National SDN Developer Contest
 
