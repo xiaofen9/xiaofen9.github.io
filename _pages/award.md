@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Awards"
+permalink: /awards/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### 2018
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ACM CCS Student Travel Grant 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Rednor IST Fellowship
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### 2017
+
+* ACM MobiCom Student Travel Grant 2017
+
+* LeiJun Scholarship (First class scholarship, top 1 out of 310)
+
+
+### 2016
+
+* **National Scholarship** (The highest student honor in China, awarded to top 0.2% students nationwide)
+
+
+* First Prize of National Undergraduate Security Contest
+
+### 2015
+
+* Yuanyi Scholarship (First class scholarship, top 1 out of 310)
+
+* First Prize of BCTF 2015
+
+* Third Prize of 0CTF 2015
+
+
