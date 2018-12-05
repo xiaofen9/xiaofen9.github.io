@@ -1,7 +1,7 @@
 ---
 title: 'Floodlight Remote Command Execution'
 date: 2018-03-30
-permalink: /blog/fld-rce/
+permalink: /posts/fld-rce/
 <!-- tags:
   - cool posts
   - category1

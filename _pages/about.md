@@ -12,7 +12,7 @@ I am a research assistant at PennState since 2018. Before going to PennState, I 
 
 Research Interest
 ====
-My research interest are in system and network security. I am also interested in theoretical problems arising out of building practical systems. 
+My research interests are system and network security. I am also interested in theoretical problems arising out of building practical systems. 
 
 
 Recent News
