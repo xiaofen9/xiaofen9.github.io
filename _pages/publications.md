@@ -20,15 +20,15 @@ Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
 Man Zhou, Qian Wang, Jingxiao Yang, Qi Li, <b>Feng Xiao</b>, Zhibo Wang, Xiaofeng Chen. <br>
 <i>CCS'18</i>
 
-<b>[Enabling Secure Location Authentication in Drone(poster)](http://fxiao.me/publications/defcon26)</b> <br>
+<b>[Enabling Secure Location Authentication in Drone(poster)](http://fxiao.me/publications/mobicom17)</b> <br>
 <b>Feng Xiao</b>, Man Zhou, Youchen Liye, Qian Wang <br>
 <i>MobiCom'17</i>
 
-<b>[A Security-enhanced vTPM 2.0 for Cloud Computing](http://fxiao.me/publications/defcon26)</b> <br>
+<b>[A Security-enhanced vTPM 2.0 for Cloud Computing](http://fxiao.me/publications/icics17)</b> <br>
 Juan Wang, <b>Feng Xiao</b>, Jianwei Huang, Daochen Zha <br>
 <i>ICICS'17</i>
 
-<b>[CHAOS: An SDN-Based Moving Target Defense System](http://fxiao.me/publications/defcon26)</b> <br>
+<b>[CHAOS: An SDN-Based Moving Target Defense System](http://fxiao.me/publications/scn)</b> <br>
 Yuan Shi, Huanguo Zhang, Juan Wang, <b>Feng Xiao</b>, Jianwei Huang, Daochen Zha.<br>
 <i>SCN</i>
 
