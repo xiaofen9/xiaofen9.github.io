@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Feng Xiao (萧峰)"
 permalink: /cv/
 author_profile: true
 redirect_from:
