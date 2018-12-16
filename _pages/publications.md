@@ -24,9 +24,8 @@ Man Zhou, Qian Wang, Jingxiao Yang, Qi Li, <b>Feng Xiao</b>, Zhibo Wang, Xiaofen
 <b>Feng Xiao</b>, Man Zhou, Youchen Liye, Qian Wang <br>
 <i>MobiCom'17</i>
 
-<b>[A Security-enhanced vTPM 2.0 for Cloud Computing](http://fxiao.me/publications/icics17)</b> <br>
-Juan Wang, <b>Feng Xiao</b>, Jianwei Huang, Daochen Zha <br>
-<i>ICICS'17</i>
+[^_^]:
+    <b>[A Security-enhanced vTPM 2.0 for Cloud Computing](http://fxiao.me/publications/icics17)</b> <br> Juan Wang, <b>Feng Xiao</b>, Jianwei Huang, Daochen Zha <br><i>ICICS'17</i>
 
 <b>[CHAOS: An SDN-Based Moving Target Defense System](http://fxiao.me/publications/scn)</b> <br>
 Yuan Shi, Huanguo Zhang, Juan Wang, <b>Feng Xiao</b>, Jianwei Huang, Daochen Zha.<br>
