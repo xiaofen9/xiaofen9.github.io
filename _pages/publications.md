@@ -6,7 +6,7 @@ author_profile: true
 
 <b>[Attacking Information Flows in the SDN Control Plane]()</b> <br>
 <b>Feng Xiao</b>, Jingquan Zhang, Jianwei Huang, Peng Liu, Guofei Gu, Dinghao Wu <br>
-<i>In submission to IEEE S&P 2020.</i>
+<i>In Preparation.</i>
 
 <b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](http://fxiao.me/publications/ton)</b> <br>
 Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
