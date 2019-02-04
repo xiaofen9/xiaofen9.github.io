@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Attacking Information Flows in the SDN Control Plane]()</b> <br>
-<b>Feng Xiao</b>, Jingquan Zhang, Jianwei Huang, Peng Liu, Guofei Gu, Dinghao Wu <br>
-<i>In Preparation.</i>
+<b>[Unexpected Data Dependency Creation and Chaining: A New Attack to SDN.]()</b> <br>
+<b>Feng Xiao</b>, Jinquan Zhang, Jianwei Huang, Guofei Gu, Dinghao Wu, Peng Liu. <br>
+<i>In submission to Transactions on Networking.</i>
 
 <b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](http://fxiao.me/publications/ton)</b> <br>
 Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
