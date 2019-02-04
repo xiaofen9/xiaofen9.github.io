@@ -6,7 +6,7 @@ author_profile: true
 
 <b>[Unexpected Data Dependency Creation and Chaining: A New Attack to SDN.]()</b> <br>
 <b>Feng Xiao</b>, Jinquan Zhang, Jianwei Huang, Guofei Gu, Dinghao Wu, Peng Liu. <br>
-<i>In submission to Transactions on Networking.</i>
+<i>In submission to IEEE S&P.</i>
 
 <b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](http://fxiao.me/publications/ton)</b> <br>
 Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
