@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at PennState since 2018. Before going to PennState, I was an undergraduate student at Wuhan University (GPA ranks 1st / 40).
+I am a security researcher that are interested in any security problems in ``real-world`` systems. I received my bachelor degree from Wuhan University in 2018.
 
 Research Interest
 ====
