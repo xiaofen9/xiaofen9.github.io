@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Georgia Tech, working with [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu)
+I am a Ph.D. student at Georgia Tech, working with [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
 Research Interest
 ====
