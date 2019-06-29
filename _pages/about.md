@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a security researcher who is interested in any security problems in ``real-world`` systems. I received my bachelor degree from Wuhan University in 2018.
+I am a Ph.D. student at Georgia Tech, working with [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu)
 
 Research Interest
 ====
