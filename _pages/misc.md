@@ -10,6 +10,10 @@ redirect_from:
 
 
 ## Vulnerability I discovered
+CVE-2019-13623            Ghidra Arbitrary Command Execution
+
+CVE-2019-13624            ONOS Remote Command Execution
+
 CVE-2018-1132             Opendaylight's SDNInterfaceapp module SQL injection.
 
 CVE-2018-15595            Opendaylight's TSDR Module Denial of Service
