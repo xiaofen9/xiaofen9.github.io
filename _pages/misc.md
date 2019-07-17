@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Vulnerability I discovered
-CVE-2019-13623            Ghidra Arbitrary Command Execution
+CVE-2019-13623            Ghidra Arbitrary Code Execution
 
 CVE-2019-13624            ONOS Remote Command Execution
 
