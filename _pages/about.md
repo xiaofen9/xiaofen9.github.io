@@ -23,7 +23,7 @@ Recent News
 
 * Aug 9, 2018. I gave a talk about SDN Security on DEFCON 2018 in Las Vegas.
 
-* Jul 9, 2018. One paper accepted to ACM CCS 2018.
+* Jul  9, 2018. One paper accepted to ACM CCS'18.
 
 
 
