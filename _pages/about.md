@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Georgia Tech, working with [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
+* I am a Ph.D. student in the [School of Computer Science](https://scs.gatech.edu) at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
-Research Interest
-====
-My research interests are system and network security. I am also interested in theoretical problems arising out of building practical systems. 
+* My research interests are in software security and system security. In particular, I am very interested in taking a proactive and adversarial approach to protect computer systems as well as the theoretical problems arising out of building such systems.
+
+* I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://nisplab.whu.edu.cn/people.html) and [Prof. Zhibo Wang](https://nisplab.whu.edu.cn/people.html).
 
 
 Recent News
 ====
-* Nov 15, 2018. I got my first car, which is a Mustang. [Take a look!](https://fxiao.me/files/mustang.jpg)
+* Aug 1, 2019. One paper accepted to IEEE S&P'20.
 
-* Oct 15, 2018. I attended the 25th ACM Conference on Computer and Communications Security held in Toronto, Canada.
+* Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.
 
-* Aug 9, 2018. I gave a talk about [SDN Security](https://fxiao.me/publications/defcon26) on the 26th DEFCON Hacking Conference held in Las Vegas, United States.
+* Aug 9, 2018. I gave a talk about SDN Security on DEFCON 2018 in Las Vegas.
+
+* Jul 9, 2018. One paper accepted to ACM CCS 2018.
 
 
 

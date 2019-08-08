@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Unexpected Data Dependency Creation and Chaining: A New Attack to SDN](http://fxiao.me/publications/sp20)</b> <br>
+<b>Feng Xiao</b>, Jinquan Zhang, Jianwei Huang, Guofei Gu, Dinghao Wu, Peng Liu <br>
+<i>Oakland 2020 (Accepted to Appear)</i>
+ 
 
 <b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](http://fxiao.me/publications/ton)</b> <br>
 Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
