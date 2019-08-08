@@ -17,13 +17,13 @@ redirect_from:
 
 Recent News
 ====
-* Aug 1, 2019. One paper accepted to IEEE S&P'20.
+* Aug 1, 2019. One paper accepted to IEEE S&P 2020.
 
 * Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.
 
-* Aug 9, 2018. I gave a talk about SDN Security on DEFCON 2018 in Las Vegas.
+* Jul 9, 2018. One paper accepted to ACM CCS 2018.
 
-* Jul  9, 2018. One paper accepted to ACM CCS'18.
+* Jun 1, 2018. One paper accepted to DEFCON USA 2018.
 
 
 

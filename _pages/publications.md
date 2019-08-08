@@ -8,18 +8,17 @@ author_profile: true
 <b>Feng Xiao</b>, Jinquan Zhang, Jianwei Huang, Guofei Gu, Dinghao Wu, Peng Liu <br>
 <i>Oakland 2020 (Accepted to appear)</i>
  
-
-<b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](http://fxiao.me/publications/ton)</b> <br>
-Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
-<i>In submission to Transactions on Networking.</i>
+<b>[PatternListener: Cracking Android Pattern Lock Using Acoustic Signals](http://fxiao.me/publications/ccs18)</b> <br>
+Man Zhou, Qian Wang, Jingxiao Yang, Qi Li, <b>Feng Xiao</b>, Zhibo Wang, Xiaofeng Chen. <br>
+<i>CCS'18</i>
 
 <b>[Hacking the Brain: Customize Evil Protocol to Pwn an SDN Controller](http://fxiao.me/publications/defcon26)</b> <br>
 <b>Feng Xiao</b>, Jianwei Huang, Peng Liu <br>
 <i>DEFCON 26</i>
 
-<b>[PatternListener: Cracking Android Pattern Lock Using Acoustic Signals](http://fxiao.me/publications/ccs18)</b> <br>
-Man Zhou, Qian Wang, Jingxiao Yang, Qi Li, <b>Feng Xiao</b>, Zhibo Wang, Xiaofeng Chen. <br>
-<i>CCS'18</i>
+<b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](http://fxiao.me/publications/ton)</b> <br>
+Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li. <br>
+<i>Preprint</i>
 
 <b>[Enabling Secure Location Authentication in Drone(poster)](http://fxiao.me/publications/mobicom17)</b> <br>
 <b>Feng Xiao</b>, Man Zhou, Youchen Liye, Qian Wang <br>
