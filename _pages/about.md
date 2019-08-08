@@ -10,7 +10,7 @@ redirect_from:
 
 * I am a Ph.D. student in the [School of Computer Science](https://scs.gatech.edu) at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
-* My research interests are in software security and system security. In particular, I am very interested in taking a proactive and adversarial approach to protect computer systems as well as the theoretical problems arising out of building such systems.
+* My research interests are in software and system security. In particular, I am very interested in taking a proactive and adversarial approach to protect computer systems. I am also interested in the theoretical problems arising out of developing such approaches.
 
 * I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://nisplab.whu.edu.cn/people.html) and [Prof. Zhibo Wang](https://nisplab.whu.edu.cn/people.html).
 
