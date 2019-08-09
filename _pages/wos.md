@@ -15,7 +15,7 @@ Traditionally, the Wall of Sheep is an interactive demonstration of what can hap
 Now I use the term Wall of Sheep to denote the list of security issues that were "passively" observed when I was enjoying my security research as well as ethical hacking.
 
 
-## Sheeps I Caught
+## SHEEPS I CAUGHT
 CVE-2019-13623            Ghidra Arbitrary Code Execution
 
 CVE-2019-13624            ONOS Remote Command Execution
