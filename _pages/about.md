@@ -12,8 +12,7 @@ redirect_from:
 
 * My research interests are in software and system security. In particular, I am very interested in taking a proactive and adversarial approach to protect computer systems. I am also interested in the theoretical problems arising out of developing such approaches.
 
-* I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://nisplab.whu.edu.cn/people.html) and [Prof. Zhibo Wang](https://nisplab.whu.edu.cn/people.html).
-
+* I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://nisplab.whu.edu.cn/people.html) and [Prof. Zhibo Wang](https://nisplab.whu.edu.cn/people.html). Before coming to Georgia Tech, I was fortunate to work under the supervision of [Prof. Peng Liu](https://s2.ist.psu.edu/pliu/) in PennState for one year.
 
 Recent News
 ====
