@@ -16,6 +16,8 @@ Now I use the term Wall of Sheep to denote the list of security issues that were
 
 
 ## SHEEPS I CAUGHT
+CVE-2019-17426            Mongoose Query Filter Bypass
+ 
 CVE-2019-13623            Ghidra Arbitrary Code Execution
 
 CVE-2019-13624            ONOS Remote Command Execution
