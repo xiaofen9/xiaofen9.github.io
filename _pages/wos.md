@@ -12,11 +12,13 @@ redirect_from:
 ## WHAT IS THE WALL OF SHEEP?
 Traditionally, the Wall of Sheep is an interactive demonstration of what can happen when network users let their guard down. We passively observe the traffic on a network, looking for evidence of users logging into email, web sites, or other network services without the protection of encryption. Those we find get put on the Wall of Sheep as a good-natured reminder that a malicious person could do the same thing we did . . . with far less friendly consequences. More importantly, we strive to educate the "sheep" we catch to prevent leaks in the future. 
 
-Now I use the term Wall of Sheep to denote the list of security issues that were "passively" observed when I was enjoying my security research as well as ethical hacking.
+Now I use the term Wall of Sheep to denote the list of security issues that were "passively" observed when I am enjoying my security research as well as ethical hacking.
 
 
 ## SHEEPS I CAUGHT
-CVE-2019-17426            Mongoose Query Filter Bypass
+CVE-2019-18413            Class-validator Bypass
+
+CVE-2019-17426            Mongoose Query Condition Abuse
  
 CVE-2019-13623            Ghidra Arbitrary Code Execution
 
