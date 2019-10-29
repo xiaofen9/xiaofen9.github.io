@@ -16,6 +16,8 @@ Now I use the term Wall of Sheep to denote the list of security issues that were
 
 
 ## SHEEPS I CAUGHT
+CVE-2019-18608            Cezerin Unauthorized Order Modification
+
 CVE-2019-18413            Class-validator Bypass
 
 CVE-2019-17426            Mongoose Query Condition Abuse
