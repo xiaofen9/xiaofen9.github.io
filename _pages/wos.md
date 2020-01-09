@@ -16,19 +16,23 @@ Now I use the term Wall of Sheep to denote the list of security issues that were
 
 
 ## SHEEPS I CAUGHT
+ CVE-2020-6639 	      mongo-express denial of service
+
+CVE-2019-20149 	      kind-of type checking manipulation
+
 CVE-2019-19729 	      bson-objectid ID forging
 
 CVE-2019-19507           jpv validation violation
 
 CVE-2019-18954           pomelo internal state manipulation
 
-Mongo-608                     Mongodb Query Condition Abuse
+Mongo-608                     mongodb query condition Abuse
 
-CVE-2019-18608            Cezerin Unauthorized Order Modification
+CVE-2019-18608            cezerin unauthorized order modification
 
 CVE-2019-18413            class-validator Bypass
 
-CVE-2019-17426            Mongoose Query Condition Abuse
+CVE-2019-17426            mongoose query condition abuse
  
 CVE-2019-13623            Ghidra Arbitrary Code Execution
 
