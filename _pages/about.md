@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the [School of Computer Science](https://scs.gatech.edu) at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
+* I am a Ph.D. student in the School of Computer Science at Georgia Tech, advised by Prof. Wenke Lee.
 
 * My research interests are in software and system security. In particular, I am very interested in taking a proactive and adversarial approach to protect computer systems. I am also interested in the theoretical problems arising out of developing such approaches.
 

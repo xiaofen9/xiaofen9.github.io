@@ -20,23 +20,25 @@ Now I use the term Wall of Sheep to denote the list of security issues that were
 
 CVE-2019-20149 	      kind-of type checking manipulation
 
+CVE-2019-10781            schema-inspector validation bypass
+
 CVE-2019-19729 	      bson-objectid ID forging
 
 CVE-2019-19507           jpv validation violation
 
 CVE-2019-18954           pomelo internal state manipulation
 
-Mongo-608                     mongodb query condition Abuse
+Mongo-608                     mongodb query condition abuse
 
 CVE-2019-18608            cezerin unauthorized order modification
 
-CVE-2019-18413            class-validator Bypass
+CVE-2019-18413            class-validator bypass
 
 CVE-2019-17426            mongoose query condition abuse
  
-CVE-2019-13623            Ghidra Arbitrary Code Execution
+CVE-2019-13623            Ghidra arbitrary code execution
 
-CVE-2019-13624            ONOS Remote Command Execution
+CVE-2019-13624            ONOS remote command execution
 
 CVE-2018-1132             Opendaylight's SDNInterfaceapp module SQL injection.
 
