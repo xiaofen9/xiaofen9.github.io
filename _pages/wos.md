@@ -16,7 +16,9 @@ Now I use the term Wall of Sheep to denote the list of security issues that were
 
 
 ## SHEEPS I CAUGHT
- CVE-2020-6639 	      mongo-express denial of service
+CVE-2020-6639 	      mongo-express denial of service
+
+CVE-2019-10790				taffyDB universal SQL Injection
 
 CVE-2019-20149 	      kind-of type checking manipulation
 
