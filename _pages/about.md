@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News
 ====
+* Mar 1, 2020. I will join Google as a summer internship working on virtualization security.
+
 * Aug 1, 2019. One paper accepted to IEEE S&P 2020.
 
 * Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.

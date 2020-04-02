@@ -32,7 +32,7 @@ CVE-2019-19507           jpv validation violation
 
 CVE-2019-18954           pomelo internal state manipulation
 
-CVE-2019-2398              mongodb query condition abuse
+CVE-2019-2391              mongodb query condition abuse
 
 CVE-2019-18608            cezerin unauthorized order modification
 
