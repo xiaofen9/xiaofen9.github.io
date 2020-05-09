@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Click **here** to View My Up-to-date CV](https://fxiao.me/files/cv.pdf)
+[**CLICK HERE** to view my up-to-date CV](https://fxiao.me/files/cv.pdf)
 
