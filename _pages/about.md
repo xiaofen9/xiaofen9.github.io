@@ -18,7 +18,7 @@ Recent News
 ====
 * May 8, 2020. One paper accepted to Black Hat USA 2020.
 
-* Mar 1, 2020. I will join Google as a summer internship working on virtualization security.
+* Mar 1, 2020. I will join Google as a summer intern working on virtualization security.
 
 * Aug 1, 2019. One paper accepted to IEEE S&P 2020.
 
