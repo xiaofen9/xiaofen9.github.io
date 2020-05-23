@@ -23,7 +23,7 @@ redirect_from:
 
 ### 2016
 
-* **National Scholarship** (The highest student honor in China, awarded to top 0.2% students nationwide)
+* **National Scholarship** (The highest student honor in China, awarded to top 0.2% undergrads nationwide)
 * First Prize of National Undergraduate Security Contest
 
 ### 2015
