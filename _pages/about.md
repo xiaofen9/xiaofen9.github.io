@@ -10,7 +10,7 @@ redirect_from:
 
 * I am a Ph.D. student in the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
-* Security vulnerabilities are dangerous, and some would create a headline... My research goal is to develop automatic tools that can detect and exploit previously unknown vulnerabilities, so that people can be aware of both the existence and the security consequnce of vulnerabilities in their systems, way earlier than adversaries.
+* Security vulnerabilities are dangerous, and some would create a headline... My research goal is to develop automatic tools to detect and exploit previously unknown vulnerabilities, so that people can be aware of both the existence and the security consequnce of vulnerabilities in their systems, way earlier than adversaries.
 
 * I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://nisplab.whu.edu.cn/people.html) and [Prof. Zhibo Wang](https://nisplab.whu.edu.cn/people.html). Before coming to Georgia Tech, I was fortunate to work under the supervision of [Prof. Peng Liu](https://s2.ist.psu.edu/pliu/) in PennState for one year.
 
