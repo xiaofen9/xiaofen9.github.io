@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News
 ====
+* Jul 8, 2020. One paper accepted to DEFCON USA 2020. Only very few talks are invited, cheers!
+
 * May 8, 2020. One paper accepted to Black Hat USA 2020.
 
 * Mar 1, 2020. I will join Google as a summer intern working on virtualization security.
