@@ -6,7 +6,7 @@ author_profile: true
 
 <b>[Discovering Hidden Properties to Attack Node.js Ecosystem](http://fxiao.me/publications/bh20)</b> <br>
 <b>Feng Xiao</b>, Jianwei Huang, Yichang Xiong, Guangliang Yang, Hong Hu, Guofei Gu, Wenke Lee <br>
-<i>BlackHat USA 2020</i>
+<i>BlackHat USA 2020</i>  (Press Release: [**Dark Reading**](https://www.darkreading.com/vulnerabilities---threats/hidden-property-abusing-allows-attacks-on-nodejs-applications/d/d-id/1338509))
  
 <b>[Unexpected Data Dependency Creation and Chaining: A New Attack to SDN](http://fxiao.me/publications/sp20)</b> <br>
 <b>Feng Xiao</b>, Jinquan Zhang, Jianwei Huang, Guofei Gu, Dinghao Wu, Peng Liu <br>
