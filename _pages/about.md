@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News
 ====
+* Dec 10, 2020. One paper accepted to USENIX Security 2021.
+
 * Jul 8, 2020. One paper accepted to DEFCON 2020. Only very few talks are invited, cheers!
 
 * May 8, 2020. One paper accepted to Black Hat USA 2020.
