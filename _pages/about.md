@@ -31,7 +31,7 @@ Recent News
 * Aug 1, 2019. One paper accepted to IEEE S&P 2020.
 
 
-<details><summary>More</summary>
+<details><summary>Earlier</summary>
 <p>
   
 * Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.
