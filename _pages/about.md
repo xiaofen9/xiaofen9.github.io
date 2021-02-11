@@ -16,7 +16,11 @@ redirect_from:
 
 Recent News
 ====
+* Feb 1, 2021. I will re-join Google as a summer intern working on application security.
+
 * Dec 10, 2020. One paper accepted to USENIX Security 2021.
+
+* Nov 15, 2020. Our work was nominated as "Most Innovative Research" at Pwnie Award.
 
 * Jul 8, 2020. One paper accepted to DEFCON 2020. Only very few talks are invited, cheers!
 
@@ -26,11 +30,18 @@ Recent News
 
 * Aug 1, 2019. One paper accepted to IEEE S&P 2020.
 
+
+<details><summary>More</summary>
+<p>
+  
 * Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.
 
 * Jul 9, 2018. One paper accepted to ACM CCS 2018.
 
 * Jun 1, 2018. One paper accepted to DEFCON USA 2018.
+</p>
+</details>
+
 
 
 
