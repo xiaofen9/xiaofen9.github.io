@@ -5,7 +5,7 @@ permalink: /publications/usenix21
 venue: "USENIX SECURITY 2021"
 ---
 
-[[PDF]](https://fxiao.me/files/bh20.pdf)
+[[PDF]](https://www.usenix.org/system/files/sec21-xiao.pdf)
 
 ## Abstract
 Nowadays, Node.js has been widely used in the development of server-side and desktop programs (e.g., Skype), with its cross-platform and high-performance execution environment of JavaScript. In past years, it has been reported other dynamic programming languages (e.g., PHP and Ruby) are unsafe on sharing objects. However, this security risk is not well studied and understood in JavaScript and Node.js programs.
