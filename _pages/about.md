@@ -32,12 +32,10 @@ Recent News
 
 
 <details><summary>Earlier</summary>
-  
-- Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.  </br>
 
-- Jul 9, 2018. One paper accepted to ACM CCS 2018. </br>
-
-- Jun 1, 2018. One paper accepted to DEFCON USA 2018. </br>
+* Feb 10, 2019. 9 CVEs were assigned for discovering SDN vulnerabilities.
+* Jul 9, 2018. One paper accepted to ACM CCS 2018.
+* Jun 1, 2018. One paper accepted to DEFCON USA 2018.
 
 </details>
 
