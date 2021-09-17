@@ -28,10 +28,6 @@ Man Zhou, Qian Wang, Jingxiao Yang, Qi Li, <b>Feng Xiao</b>, Zhibo Wang, Xiaofen
 <b>Feng Xiao</b>, Jianwei Huang, Peng Liu <br>
 <i>DEFCON 26</i>
 
-<b>[LinkBait: Active Link Obfuscation to Thwart Link-flooding attack](https://fxiao.me/publications/ton)</b> <br>
-Qian Wang, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang, Qi Li <br>
-<i>Preprint</i>
-
 <b>[Enabling Secure Location Authentication in Drone (poster)](https://fxiao.me/publications/mobicom17)</b> <br>
 <b>Feng Xiao</b>, Man Zhou, Youchen Liye, Qian Wang <br>
 <i>MobiCom'17</i>
