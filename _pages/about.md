@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News
 ====
-* Feb 1, 2021. I will re-join Google as a summer intern working on application security.
+* Jul 15, 2021. Gave two talks about automatic web vulnerability detection at Google. 
 
 * Dec 10, 2020. One paper accepted to USENIX Security 2021.
 
