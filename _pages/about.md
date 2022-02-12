@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News
 ====
-* Feb 10, 2022. Google open sourced my intern project to help the community fight log4j-like vulnerabilities!
+* Feb 10, 2022. Google open sourced my intern project to help community fight log4j-like vulnerabilities!
 
 * Jul 15, 2021. Gave two talks about automatic web vulnerability detection at Google. 
 
