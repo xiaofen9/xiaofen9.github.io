@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News
 ====
+* Feb 10, 2022. My work was open sourced by Google to help security community fight log4j-like vulnerabilities!
+
 * Jul 15, 2021. Gave two talks about automatic web vulnerability detection at Google. 
 
 * Dec 10, 2020. One paper accepted to USENIX Security 2021.
