@@ -33,7 +33,7 @@ Recent News
 * Aug 1, 2019. One paper accepted to IEEE S&P 2020.
 
 
-(Full list)[/news]
+[Full list](/news)
 
 
 
