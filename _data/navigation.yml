@@ -8,9 +8,6 @@ main:
 
   - title: "CV"
     url: /cv/
-
-  - title: "Blog"
-    url: /blog/
     
   - title: "Wall of Sheep"
     url: /wos/
