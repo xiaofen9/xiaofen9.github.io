@@ -1,7 +1,6 @@
 ---
 permalink: /news/
 title: "Terms and Privacy Policy"
-title: "WALL OF SHEEP"
 author_profile: true
 ---
 
