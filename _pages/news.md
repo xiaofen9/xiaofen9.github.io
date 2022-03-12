@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "Terms and Privacy Policy"
+title: "News"
 author_profile: true
 ---
 
