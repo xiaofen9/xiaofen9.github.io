@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem](https://fxiao.me/publications/)</b> <br>
+<b>Feng Xiao</b>, Zheng Yang, Joey Allen, Guangliang Yang, Grant Williams, Wenke Lee <br>
+<i>ACM CCS 2022 (To Appear)</i> 
+
 <b>[Abusing Hidden Properties to Attack Node.js Ecosystem](https://fxiao.me/publications/usenix21)</b> <br>
 <b>Feng Xiao</b>, Jianwei Huang, Yichang Xiong, Guangliang Yang, Hong Hu, Guofei Gu, Wenke Lee <br>
 <i>USENIX Security 2021</i> 
