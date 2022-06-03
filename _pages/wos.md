@@ -16,47 +16,16 @@ Now I use the term Wall of Sheep to denote the list of security issues that were
 
 
 ## SHEEPS I CAUGHT
-CVE-2020-6639 	     mongo-express denial of service
+CVE-2022-30009,  CVE-2022-30010, CVE-2022-30485
 
-CVE-2019-10805           valib inspection bypass
+CVE-2021-23702, CVE-2022-0748, CVE-2022-0841, CVE-2022-30008, CVE-2022-29080
 
-CVE-2019-10790	     taffyDB universal SQL Injection
+CVE-2021-2811, CVE-2021-28154, CVE-2021-4139, CVE-2020-6639, CVE-2019-10805
 
-CVE-2019-20149 	      kind-of type checking manipulation
+CVE-2019-10790, CVE-2019-20149, CVE-2019-10781, CVE-2019-19729, CVE-2019-19507
 
-CVE-2019-10781            schema-inspector validation bypass
+CVE-2019-18954, CVE-2019-2391, CVE-2019-18608, CVE-2019-18413, CVE-2019-17426
 
-CVE-2019-19729 	      bson-objectid ID forging
+CVE-2019-13623, CVE-2019-13624, CVE-2018-1132, CVE-2018-15595, CVE-2018-1999020
 
-CVE-2019-19507           jpv validation violation
-
-CVE-2019-18954           pomelo internal state manipulation
-
-CVE-2019-2391              mongodb query condition abuse
-
-CVE-2019-18608            cezerin unauthorized order modification
-
-CVE-2019-18413            class-validator bypass
-
-CVE-2019-17426            mongoose query condition abuse
- 
-CVE-2019-13623            Ghidra arbitrary code execution
-
-CVE-2019-13624            ONOS remote command execution
-
-CVE-2018-1132             Opendaylight's SDNInterfaceapp module SQL injection.
-
-CVE-2018-15595            Opendaylight's TSDR Module Denial of Service
-
-CVE-2018-1999020       ONOS Controller Directory Traversal
-
-CVE-2018-1000614        ONOS Controller Notification XXE
-
-CVE-2018-1000615        ONOS Controller OVSDB Remote Denial of Service
-
-CVE-2018-1000616        ONOS Controller XMLCONFIGPARSER XXE
-
-CVE-2018-1000617        Atlassian Floodlight Controller Remote Denial of Service
-
-CVE-2018-1000163        Atlassian Floodlight Controller Web Console Cross-Site Scripting
-
+CVE-2018-1000614, CVE-2018-1000615, CVE-2018-1000616, CVE-2018-1000617, CVE-2018-1000163
