@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
+* I am a Ph.D. Candiate in the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
 * Security vulnerabilities are dangerous, and some would create a headline... My research goal is to develop automatic tools to detect and exploit previously unknown vulnerabilities, so that people can be aware of both the existence and the security consequence of vulnerabilities in their systems, way earlier than adversaries.
 
@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News
 ====
-* Jul 18, 2023. Gave talk about Supply Chain Security at Texas A&M University.
+* Jul 18, 2023. Gave talk about Softtware Supply Chain Security at Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
 
