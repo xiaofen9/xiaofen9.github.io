@@ -6,6 +6,12 @@ author_profile: true
 
 {% include base_path %}
 
+* Jul 18, 2023. Gave talk about Supply Chain Security at Texas A&M University.
+
+* Jul 10, 2023. One paper accepted to IEEE S&P 2024.
+
+* May 8, 2023. One paper accepted (conditionally) to USENIX Security 2024.
+
 * Feb 10, 2022. Google open sourced my intern project to help community fight log4j-like vulnerabilities!
 
 * Jul 15, 2021. Gave two talks about automatic web vulnerability detection at Google. 

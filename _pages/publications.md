@@ -4,9 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation](https://fxiao.me/publications/)</b> <br>
+<b>Feng Xiao</b>, Zhongfu Su, Guangliang Yang, Wenke Lee <br>
+<i>IEEE S&P 2024 (To Appear)</i> 
+
+<b>[WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web](https://fxiao.me/publications/)</b> <br>
+Joey Allen, Zheng Yang, <b>Feng Xiao</b>, Matthew Landen, Roberto Perdisci, Wenke Lee <br>
+<i>USENIX Security 2024 (To Appear)</i> 
+
 <b>[Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem](https://fxiao.me/publications/)</b> <br>
 <b>Feng Xiao</b>, Zheng Yang, Joey Allen, Guangliang Yang, Grant Williams, Wenke Lee <br>
-<i>ACM CCS 2022 (To Appear)</i> 
+<i>ACM CCS 2022</i> 
 
 <b>[Abusing Hidden Properties to Attack Node.js Ecosystem](https://fxiao.me/publications/usenix21)</b> <br>
 <b>Feng Xiao</b>, Jianwei Huang, Yichang Xiong, Guangliang Yang, Hong Hu, Guofei Gu, Wenke Lee <br>
@@ -14,7 +22,7 @@ author_profile: true
 
 <b>[Active Link Obfuscation to Thwart Link-flooding Attacks for Internet of Things](https://fxiao.me/publications/trustcom20)</b> <br>
 Xuyang Ding, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang <br>
-<i>TrustCom 2020</i> 
+<i>IEEE TrustCom 2020</i> 
 
 <b>[Discovering Hidden Properties to Attack Node.js Ecosystem](https://fxiao.me/publications/bh20)</b> <br>
 <b>Feng Xiao</b>, Jianwei Huang, Yichang Xiong, Guangliang Yang, Hong Hu, Guofei Gu, Wenke Lee <br>
@@ -22,7 +30,7 @@ Xuyang Ding, <b>Feng Xiao</b>, Man Zhou, Zhibo Wang <br>
  
 <b>[Unexpected Data Dependency Creation and Chaining: A New Attack to SDN](https://fxiao.me/publications/sp20)</b> <br>
 <b>Feng Xiao</b>, Jinquan Zhang, Jianwei Huang, Guofei Gu, Dinghao Wu, Peng Liu <br>
-<i>Oakland 2020</i>
+<i>IEEE S&P 2020</i>
  
 <b>[PatternListener: Cracking Android Pattern Lock Using Acoustic Signals](https://fxiao.me/publications/ccs18)</b> <br>
 Man Zhou, Qian Wang, Jingxiao Yang, Qi Li, <b>Feng Xiao</b>, Zhibo Wang, Xiaofeng Chen <br>
