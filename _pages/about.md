@@ -10,7 +10,7 @@ redirect_from:
 
 * I am a Ph.D. Candiate in the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
-* I build automatic software/network protection systems for important Internet Infrastructure (e.g., software supply chain,)
+* I build automatic software/network protection systems for important Internet Infrastructure, e.g., software supply chain.
 
 * I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en) and [Prof. Zhibo Wang](https://person.zju.edu.cn/zhibowang). Before coming to Georgia Tech, I was fortunate to work under the supervision of [Prof. Peng Liu](https://s2.ist.psu.edu/pliu/) in PennState for one year.
 
