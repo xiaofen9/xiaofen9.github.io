@@ -16,6 +16,8 @@ redirect_from:
 
 Recent News
 ====
+* Jul 18, 2023. Gave talk about Softtware Supply Chain Security at IBM Research, USA.
+
 * Jul 18, 2023. Gave talk about Softtware Supply Chain Security at Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
