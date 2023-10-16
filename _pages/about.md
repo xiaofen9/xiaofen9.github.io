@@ -14,11 +14,17 @@ redirect_from:
 
 * I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en) and [Prof. Zhibo Wang](https://person.zju.edu.cn/zhibowang). Before coming to Georgia Tech, I was fortunate to work under the supervision of [Prof. Peng Liu](https://s2.ist.psu.edu/pliu/) in PennState for one year.
 
+
+Community Service
+====
+* ACM WWW Program Committee, 2023
+* SIG DIMVA Program Committee, 2023
+* USENIX Security External Reviewer, 2021-2023
+* Georgia Tech PhD mentor, 2023 
+
 Recent News
 ====
-* Sep 8, 2023. Gave talk about Software Supply Chain Security at IBM Research, USA.
-
-* Jul 18, 2023. Gave talk about Software Supply Chain Security at Texas A&M University.
+* Sep 8, 2023. Gave two talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
 
@@ -27,14 +33,6 @@ Recent News
 * Apr 23, 2022.  One paper accepted to ACM CCS 2022.
 
 * Feb 10, 2022. Google open sourced my intern project to help community fight log4j-like vulnerabilities!
-
-* Jul 15, 2021. Gave two talks about automatic web vulnerability detection at Google. 
-
-* Dec 10, 2020. One paper accepted to USENIX Security 2021.
-
-* Nov 15, 2020. Our work was nominated as "Most Innovative Research" at Pwnie Award.
-
-* May 8, 2020. One paper accepted to Black Hat USA 2020.
 
 
 [Full list](/news)
