@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. Candiate in the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
+* I earned my Ph.D. at the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
 * I build automatic software/network protection systems for important Internet Infrastructure, e.g., software supply chain.
 
@@ -24,6 +24,8 @@ Community Services
 
 Recent News
 =====
+* Nov 17, 2023. I defended my PhD thesis successfully!
+
 * Sep 8, 2023. Gave two talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
@@ -36,7 +38,6 @@ Recent News
 
 
 [Full list](/news)
-
 
 
 
