@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Feng Xiao"
 title_separator          : "-"
 name                     : &name "Feng"
-description              : &description "A Hacker"
+description              : &description "A computer scientist who loves to break systems."
 url                      : https://fxiao.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaofen9/xiaofen9.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Feng Xiao"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Georgia Tech"
+  bio              : "Security Researcher at Palo Alto Networks"
   location         : "Atlanta, GA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DYbE0ZQAAAAJ&hl=en"
-  email            : "feng@gatech.edu"
+  email            : "f3xiao@gmail.com"
   uri              :
   bitbucket        :
   codepen          :

@@ -6,7 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-* Jul 18, 2023. Gave talk about Supply Chain Security at Texas A&M University.
+* Nov 17, 2023. I defended my PhD thesis successfully!
+
+* Sep 8, 2023. Gave two talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
 

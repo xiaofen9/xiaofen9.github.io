@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+* I am a senior statff security researcher at Palo Alto Neworks, working on malware detection and classification.
+
 * I earned my Ph.D. at the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
-
-* I build automatic software/network protection systems for important Internet Infrastructure, e.g., open-source software ecosystem.
-
-* I received my Bachelor's Degree in Wuhan University. My undergraduate research advisors are [Prof. Qian Wang](https://scholar.google.com/citations?user=CD7ybnAAAAAJ&hl=en) and [Prof. Zhibo Wang](https://person.zju.edu.cn/zhibowang). Before coming to Georgia Tech, I was fortunate to work under the supervision of [Prof. Peng Liu](https://s2.ist.psu.edu/pliu/) in PennState for one year.
 
 
 Community Services
@@ -26,11 +24,11 @@ Recent News
 =====
 * Nov 17, 2023. I defended my PhD thesis successfully!
 
-* Sep 8, 2023. Gave two talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
+* Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
 
-* May 8, 2023. One paper accepted (conditionally) to USENIX Security 2024.
+* May 8, 2023. One paper accepted to USENIX Security 2024.
 
 * Apr 23, 2022.  One paper accepted to ACM CCS 2022.
 
