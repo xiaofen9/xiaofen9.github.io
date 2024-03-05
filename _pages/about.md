@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a senior statff security researcher at Palo Alto Neworks, working on malware detection and classification.
+* I am a senior statff researcher at Palo Alto Neworks, working on AI-based malware detection.
 
 * I earned my Ph.D. at the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
 
@@ -22,6 +22,8 @@ Community Services
 
 Recent News
 =====
+* Mar 1, 2024. Our work about defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
+
 * Nov 17, 2023. I defended my PhD thesis successfully!
 
 * Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
