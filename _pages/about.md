@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-* I am a senior statff researcher at Palo Alto Neworks, working on AI-based malware detection.
+* I am a machine learning researcher working at Palo Alto Networks. Prior to that, I earned CS Ph.D. from Georgia Tech, where I conducted research in machine learning (ML) and systems security. 
 
-* I earned my Ph.D. at the School of Computer Science at Georgia Tech, advised by [Prof. Wenke Lee](http://wenke.gtisc.gatech.edu).
+
+* I Published 10+ ML/systems security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am member of Program Committees at premium AI conferences including ACM WWW.
+
 
 
 Community Services
