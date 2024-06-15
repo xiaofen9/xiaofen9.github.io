@@ -4,15 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient Descent-Resistant Features in Face Recognition](https://fxiao.me/publications/)</b> <br>
+Shuaifan Jin, He Wang, Zhibo Wang, <b>Feng Xiao</b>, Jiahui Hu, Yuan He, Wenwen Zhang, Zhongjie Ba, Weijie Fang, Shuhong Yuan, Kui Ren<br>
+<i>USENIX Security 2024 (To Appear)</i> 
 
 <b>[JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation](https://fxiao.me/publications/)</b> <br>
 <b>Feng Xiao</b>, Zhongfu Su, Guangliang Yang, Wenke Lee <br>
 <i>IEEE S&P 2024</i> 
-
-
-<b>[FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient Descent-Resistant Features in Face Recognition](https://fxiao.me/publications/)</b> <br>
-Shuaifan Jin, He Wang, Zhibo Wang, <b>Feng Xiao</b>, Jiahui Hu, Yuan He, Wenwen Zhang, Zhongjie Ba, Weijie Fang, Shuhong Yuan, Kui Ren<br>
-<i>USENIX Security 2024 (To Appear)</i> 
 
 <b>[WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web](https://fxiao.me/publications/)</b> <br>
 Joey Allen, Zheng Yang, <b>Feng Xiao</b>, Matthew Landen, Roberto Perdisci, Wenke Lee <br>

@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
 * Nov 17, 2023. I defended my PhD thesis successfully!
 
