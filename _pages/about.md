@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a machine learning researcher working at Palo Alto Networks. Prior to that, I earned CS Ph.D. from Georgia Tech, where I conducted research in machine learning (ML) and systems security. 
+* I am a machine learning researcher working at Palo Alto Networks. Prior to that, I earned CS Ph.D. from Georgia Tech, where I designed adversarial approaches to improve the robustness and security of machine learning/software systems. 
 
 
 * I Published 10+ ML/systems security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am member of Program Committees at premium AI conferences including NeurIPS and ACM WWW.
@@ -25,9 +25,9 @@ Community Services
 
 Recent News
 =====
-* Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
+* Aug 1, 2024. Check out our latest [work](https://arxiv.org/pdf/2407.16667) of context-aware jailbreaking on large language model (LLM). It uncovers 60+ security risks from OpenAI marketplace applications!
 
-* Nov 17, 2023. I defended my PhD thesis successfully!
+* Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
 * Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
 

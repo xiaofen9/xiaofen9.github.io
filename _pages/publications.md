@@ -4,17 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](https://arxiv.org/pdf/2407.16667)</b> <br>
+Huiyu Xu, Wenhui Zhang, Zhibo Wang, <b>Feng Xiao</b>, Rui Zheng, Yunhe Feng, Zhongjie Ba†‡ and Kui Ren<br>
+<i>Under Submission</i>
+
 <b>[FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient Descent-Resistant Features in Face Recognition](https://fxiao.me/publications/)</b> <br>
 Shuaifan Jin, He Wang, Zhibo Wang, <b>Feng Xiao</b>, Jiahui Hu, Yuan He, Wenwen Zhang, Zhongjie Ba, Weijie Fang, Shuhong Yuan, Kui Ren<br>
-<i>USENIX Security 2024 (To Appear)</i> 
+<i>USENIX Security 2024/i> 
+
+<b>[WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web](https://fxiao.me/publications/)</b> <br>
+Joey Allen, Zheng Yang, <b>Feng Xiao</b>, Matthew Landen, Roberto Perdisci, Wenke Lee <br>
+<i>USENIX Security 2024</i>
 
 <b>[JASMINE: Scale up JavaScript Static Security Analysis with Computation-based Semantic Explanation](https://fxiao.me/publications/)</b> <br>
 <b>Feng Xiao</b>, Zhongfu Su, Guangliang Yang, Wenke Lee <br>
 <i>IEEE S&P 2024</i> 
 
-<b>[WEBRR: A Forensic System for Replaying and Investigating Web-Based Attacks in The Modern Web](https://fxiao.me/publications/)</b> <br>
-Joey Allen, Zheng Yang, <b>Feng Xiao</b>, Matthew Landen, Roberto Perdisci, Wenke Lee <br>
-<i>USENIX Security 2024</i> 
 
 <b>[Understanding and Mitigating Remote Code Execution Vulnerabilities in Cross-Platform Ecosystem](https://fxiao.me/publications/)</b> <br>
 <b>Feng Xiao</b>, Zheng Yang, Joey Allen, Guangliang Yang, Grant Williams, Wenke Lee <br>
