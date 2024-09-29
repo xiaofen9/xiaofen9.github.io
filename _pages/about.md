@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-* I am a software engineer at Google. Prior to that, I earned CS Ph.D. from Georgia Tech, where I designed bottom-up adversarial approaches (in contrast to top-down security policies) to improve the robustness and security of software/ML systems. 
+* I am a software engineer at Google. Prior to that, I earned CS Ph.D. from Georgia Tech, where I designed bottom-up adversarial approaches (in contrast to top-down security policies) to improve the robustness and security of ML/software systems. 
 
 
-* I Published 10+ software/ML security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am member of Program Committees at premium AI conferences including NeurIPS and ACM WWW.
+* I Published 10+ ML/software security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am member of Program Committees at premium AI conferences including NeurIPS and ACM WWW.
 
 
 
 Community Services
 =====
+* ICLR Program Committee, 2025
+* ACM WWW Program Committee, 2024, 2025
 * NeurIPS Program Committee, 2024
-* ACM WWW Program Committee, 2023
 * SIG DIMVA Program Committee, 2023
 * USENIX Security External Reviewer, 2021-2023
 * Georgia Tech PhD mentor, 2023 
