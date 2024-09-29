@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* I am a machine learning researcher working at Palo Alto Networks. Prior to that, I earned CS Ph.D. from Georgia Tech, where I designed bottom-up adversarial approaches (in contrast to top-down security policies) to improve the robustness and security of machine learning/software systems. 
+* I am a software engineer at Google. Prior to that, I earned CS Ph.D. from Georgia Tech, where I designed bottom-up adversarial approaches (in contrast to top-down security policies) to improve the robustness and security of software/ML systems. 
 
 
-* I Published 10+ ML/systems security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am member of Program Committees at premium AI conferences including NeurIPS and ACM WWW.
+* I Published 10+ software/ML security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am member of Program Committees at premium AI conferences including NeurIPS and ACM WWW.
 
 
 
