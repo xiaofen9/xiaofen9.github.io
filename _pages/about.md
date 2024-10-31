@@ -26,7 +26,9 @@ Community Services
 
 Recent News
 =====
-* Aug 1, 2024. Check out our latest [work](https://arxiv.org/pdf/2407.16667) of context-aware jailbreaking on large language model (LLM). It uncovers 60+ security risks from OpenAI marketplace applications!
+* Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Lanaguage Model (LLM) data leakage detection!
+
+* Aug 1, 2024. Check out our latest [work](https://arxiv.org/pdf/2407.16667) of context-aware jailbreaking on LLM. It uncovers 60+ security risks from OpenAI marketplace applications!
 
 * Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
@@ -35,8 +37,6 @@ Recent News
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
 
 * May 8, 2023. One paper accepted to USENIX Security 2024.
-
-* Apr 23, 2022.  One paper accepted to ACM CCS 2022.
 
 [Full list](/news)
 
