@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am a software engineer at Google. Prior to that, I earned CS Ph.D. from Georgia Tech, where I designed AI-driven autonomous systems to improve the robustness and security of ML models/software systems.
+* I am a software engineer at Google. Prior to that, I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of ML models/software systems.
 
-* I Published 10+ ML/software security research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am a member of Program Committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
+* I Published 10+ software security/ML research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am a member of Program Committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
 
 
 
