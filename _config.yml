@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Feng Xiao"
   avatar           : "profile.png"
-  bio              : "Software Engineer at Google"
-  location         : "Santa Clara, CA"
+  bio              : 
+  location         : "Mountain View, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=N3wIA1AAAAAJ&hl=en"
   email            : "f3xiao@gmail.com"
