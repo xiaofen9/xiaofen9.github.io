@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I lead frontier AGI security research at Google Deepmind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of ML models/software systems.
+* I work on frontier AGI security research at Google Deepmind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of ML models/software systems.
 
 * I Published 10+ software security/ML research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am a member of Program Committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
 
