@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a software engineer at Google. Prior to that, I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of ML models/software systems.
+* I am doing frontier AGI security research at Google Deepmind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of ML models/software systems.
 
 * I Published 10+ software security/ML research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am a member of Program Committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
 
@@ -25,6 +25,8 @@ Community Services
 
 Recent News
 =====
+* May 2025. My foundational AI safety research directly enabled Palo Alto Networks' launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
+
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Lanaguage Model (LLM) data leakage detection!
 
 * Aug 1, 2024. Check out our latest [work](https://arxiv.org/pdf/2407.16667) of training LLM jailbreaking agent with reinforcement learning. It uncovers 60+ security risks from OpenAI marketplace applications!
@@ -34,8 +36,6 @@ Recent News
 * Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
-
-* May 8, 2023. One paper accepted to USENIX Security 2024.
 
 [Full list](/news)
 
