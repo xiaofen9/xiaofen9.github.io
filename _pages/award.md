@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+### 2021
+* Pwnie Award: Most Innovative Research Runner-up
+
+### 2019
+* Georgia Tech Chair Fellowship
+
 ### 2018
 
 * ACM CCS Student Travel Grant
