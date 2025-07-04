@@ -5,9 +5,6 @@ main:
 
   - title: "Awards"
     url: /awards/  
-
-  - title: "CV"
-    url: /cv/
     
   - title: "Wall of Sheep"
     url: /wos/
