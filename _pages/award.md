@@ -34,6 +34,6 @@ redirect_from:
 * Second Prize of National SDN Developer Contest
 
 ### 2014
-* T00ls Hall of Fame (T00ls is a premium cybersecurity community)
+* T00ls Hall of Fame (T00ls.netis a premium cybersecurity forum)
 
 
