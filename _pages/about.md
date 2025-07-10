@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I work on frontier AGI security research at Google Deepmind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of ML models/software systems.
+* I work on frontier AGI security research at Google Deepmind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of software/ML systems.
 
-* I Published 10+ software security/ML research works at top-tier conferences including IEEE S&P, USENIX SEC, BlackHat USA, etc. Also, I am a member of Program Committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
+* I published 10+ software security/ML research works at top-tier conferences, including IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc. Also, I am a member of program committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
 
 
 
@@ -29,11 +29,11 @@ Recent News
 
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
 
-* Aug 1, 2024. Check out our latest [work](https://arxiv.org/pdf/2407.16667) of training LLM jailbreaking agent with reinforcement learning. It uncovers 60+ security risks from OpenAI marketplace applications!
+* Aug 1, 2024. Check out our [work](https://arxiv.org/pdf/2407.16667) on LLM jailbreaking agent. It uncovered 60+ security risks from OpenAI marketplace applications!
 
 * Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
-* Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
+* Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research USA and Texas A&M University.
 
 * Jul 10, 2023. One paper accepted to IEEE S&P 2024.
 
