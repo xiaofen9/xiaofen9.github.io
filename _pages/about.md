@@ -33,10 +33,6 @@ Recent News
 
 * Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
-* Sep 8, 2023. Gave talks about Software Supply Chain Security at IBM Research USA and Texas A&M University.
-
-* Jul 10, 2023. One paper accepted to IEEE S&P 2024.
-
 [Full list](/news)
 
 
