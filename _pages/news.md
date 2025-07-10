@@ -5,8 +5,15 @@ author_profile: true
 ---
 
 {% include base_path %}
-* Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
+* May 2025. My foundational AI safety research directly enabled Palo Alto Networks' launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
+
+* Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
+
+* Aug 1, 2024. Check out our [work](https://arxiv.org/pdf/2407.16667) on LLM jailbreaking agent. It uncovered 60+ security risks from OpenAI marketplace applications!
+
+* Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
+  
 * Nov 17, 2023. I defended my PhD thesis successfully!
 
 * Sep 8, 2023. Gave two talks about Software Supply Chain Security at IBM Research, USA and Texas A&M University.
@@ -15,7 +22,7 @@ author_profile: true
 
 * May 8, 2023. One paper accepted (conditionally) to USENIX Security 2024.
 
-* Feb 10, 2022. Google open sourced my intern project to help community fight log4j-like vulnerabilities!
+* Feb 10, 2022. Google open-sourced my intern project to help community fight log4j-like vulnerabilities!
 
 * Jul 15, 2021. Gave two talks about automatic web vulnerability detection at Google. 
 
