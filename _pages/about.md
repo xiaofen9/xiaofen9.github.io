@@ -29,7 +29,7 @@ Recent News
 
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
 
-* Aug 1, 2024. Check out our [work](https://arxiv.org/pdf/2407.16667) on LLM jailbreaking agent. It uncovered 60+ security risks from OpenAI marketplace applications!
+* Aug 1, 2024. Check out our [work](https://arxiv.org/pdf/2407.16667) on context-aware LLM jailbreaking. It uncovered 60+ security risks from OpenAI marketplace applications!
 
 * Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
 
