@@ -6,13 +6,11 @@ author_profile: true
 
 {% include base_path %}
 
-* May 2025. My foundational AI safety research directly enabled Palo Alto Networks' launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
+* May 2025. My AI security research work at Palo Alto Network directly enabled the launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
 
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
 
-* Aug 1, 2024. Check out our [work](https://arxiv.org/pdf/2407.16667) on LLM jailbreaking agent. It uncovered 60+ security risks from OpenAI marketplace applications!
-
-* Mar 1, 2024. Our work on defending adversarial learning attacks against bio-authentication systems is accepted to USENIX Security 2024!
+* Aug 1, 2024. Our work on context-aware LLM jailbreaking has uncovered 60+ security risks from OpenAI marketplace applications!
   
 * Nov 17, 2023. I defended my PhD thesis successfully!
 
