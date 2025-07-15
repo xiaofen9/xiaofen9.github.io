@@ -25,7 +25,7 @@ Community Services
 
 Recent News
 =====
-* May 2025. My foundational AI safety research directly enabled Palo Alto Networks' launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
+* May 2025. My AI safety research work at Palo Alto Network directly enabled the launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
 
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
 
