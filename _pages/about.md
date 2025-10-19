@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am leading Frontier Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by [Dr. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
+* I am leading Frontier Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee.
 
 * I published 10+ software security/ML research works at top-tier conferences, including IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc. Also, I am a member of program committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
 
@@ -16,7 +16,7 @@ redirect_from:
 
 Community Services
 =====
-* ACM CCS Program Comittee, 2026
+* ACM CCS Program Committee, 2026
 * ICLR Program Committee, 2025
 * ACM WWW Program Committee, 2024, 2025
 * NeurIPS Program Committee, 2024
