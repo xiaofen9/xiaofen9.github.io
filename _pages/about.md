@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am leading frontier security research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee. During PhD, I designed novel cyber-reasoning systems to improve the robustness and security of software/ML systems.
+* I am leading Frontier Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by [Dr. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
 
 * I published 10+ software security/ML research works at top-tier conferences, including IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc. Also, I am a member of program committees at premium AI conferences, including NeurIPS and ACM WWW, and ICLR.
 
@@ -16,16 +16,16 @@ redirect_from:
 
 Community Services
 =====
+* ACM CCS Program Comittee, 2026
 * ICLR Program Committee, 2025
 * ACM WWW Program Committee, 2024, 2025
 * NeurIPS Program Committee, 2024
 * SIG DIMVA Program Committee, 2023
 * USENIX Security External Reviewer, 2021-2023
-* Georgia Tech PhD mentor, 2023 
 
 Recent News
 =====
-* May 2025. My AI security research work at Palo Alto Network directly enabled the launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
+* May 2025. My AI security research work at Palo Alto Networks directly enabled the launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
 
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
 
