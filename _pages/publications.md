@@ -6,7 +6,7 @@ author_profile: true
 
 <b>[RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](https://arxiv.org/pdf/2407.16667)</b> <br>
 Huiyu Xu, Wenhui Zhang, Zhibo Wang, <b>Feng Xiao</b>, Rui Zheng, Yunhe Feng, Zhongjie Ba†‡ and Kui Ren<br>
-<i>Under Submission</i>
+<i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i>
 
 <b>[FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient Descent-Resistant Features in Face Recognition](https://fxiao.me/publications/)</b> <br>
 Shuaifan Jin, He Wang, Zhibo Wang, <b>Feng Xiao</b>, Jiahui Hu, Yuan He, Wenwen Zhang, Zhongjie Ba, Weijie Fang, Shuhong Yuan, Kui Ren<br>
