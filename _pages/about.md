@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I lead Frontier Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee.
+* I lead Frontier AGI Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee.
 
 * My research lies at the intersection of machine learning and systems security, with a focus on identifying and mitigating emerging threats in AI-driven environments through techniques such as safety alignment, adversarial defense. I share my findings with IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc.
 
