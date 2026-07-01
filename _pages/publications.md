@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Towards Scalable Defense Against Intimate Partner Infiltration</b> <br>
+<b>[Towards Scalable Defense Against Intimate Partner Infiltration](https://arxiv.org/pdf/2502.03682)</b> <br>
 Weisi Yang, Shinan Liu, <b>Feng Xiao</b>, Nick Feamster, Stephen Xia<br>
 <i>ACM UbiComp 2026</i>
 
