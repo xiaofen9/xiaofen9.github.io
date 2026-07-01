@@ -4,8 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Towards Scalable Defense Against Intimate Partner Infiltration</b> <br>
+Weisi Yang, Shinan Liu, <b>Feng Xiao</b>, Nick Feamster, Stephen Xia<br>
+<i>ACM UbiComp 2026</i>
+
 <b>[RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](https://arxiv.org/pdf/2407.16667)</b> <br>
-Huiyu Xu, Wenhui Zhang, Zhibo Wang, <b>Feng Xiao</b>, Rui Zheng, Yunhe Feng, Zhongjie Ba†‡ and Kui Ren<br>
+Huiyu Xu, Wenhui Zhang, Zhibo Wang, <b>Feng Xiao</b>, Rui Zheng, Yunhe Feng, Zhongjie Ba and Kui Ren<br>
 <i>IEEE Transactions on Dependable and Secure Computing (TDSC)</i>
 
 <b>[FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient Descent-Resistant Features in Face Recognition](https://fxiao.me/publications/)</b> <br>
