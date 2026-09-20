@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I lead Frontier AGI Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>. I earned CS Ph.D. from Georgia Tech, advised by Dr. Wenke Lee.
+* I lead Frontier AGI Security Research at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>.
 
-* My research lies at the intersection of machine learning and systems security, with a focus on identifying and mitigating emerging threats in AI-driven environments through techniques such as safety alignment, adversarial defense. I share my findings with IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc.
+* I am the tech lead on the following two initiatives: post-training cyber capability for Gemini ([link](https://deepmind.google/models/gemini/cyber/}{deepmind.google/models/gemini/cyber})) and designing in-/out-of-model mitigations to prevent cybersecurity misuse in mainline Gemini. I share my findings with IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc.
 
 Community Services
 =====
@@ -23,6 +23,8 @@ Community Services
 
 Recent News
 =====
+* Sep 2026. We launched Gemini Flash 3.8 and Gemini 3.8 Flash Cyber! Congratulations to the team!
+
 * May 2025. My AI security research work at Palo Alto Networks directly enabled the launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
 
 * Aug 14, 2024. One US patent filed with Palo Alto Networks on Large Language Model (LLM) data leakage detection!
