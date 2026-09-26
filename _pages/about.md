@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a researcher at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>, where I co-lead the following two initiatives: post-training cyber capability for Gemini ([link](https://deepmind.google/models/gemini/cyber/}{deepmind.google/models/gemini/cyber})) and designing in-/out-of-model mitigations to prevent cybersecurity misuse in mainline Gemini. I share my findings with IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc.
+* I am a researcher at Google DeepMind <a href="https://deepmind.google/"><img width="20px" src="https://fxiao.me/images/GDMLogo.png" alt="DeepMind Logo"></a>, where I co-lead the following two initiatives: post-training cyber capability for Gemini ([link]([https://deepmind.google/models/gemini/cyber/](https://deepmind.google/models/gemini/cyber/)}{deepmind.google/models/gemini/cyber})) and designing in-/out-of-model mitigations to prevent cybersecurity misuse in mainline Gemini. I share my findings with IEEE S&P, USENIX SEC, ACM CCS, BlackHat USA, etc.
 
 Community Services
 =====
