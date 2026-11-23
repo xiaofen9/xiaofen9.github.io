@@ -26,12 +26,6 @@ redirect_from:
 * LeiJun Scholarship (First class scholarship, top 1 out of 310, 20000RMB)
 * Second Prize of National Undergraduate Security Contest
 
-
-### 2016
-
-* **National Scholarship** (The highest student honor in China, awarded to top 0.2% undergrads nationwide)
-* First Prize of National Undergraduate Security Contest
-
 ### 2015
 
 * Yuanyi Scholarship (First class scholarship, top 1 out of 310, 10000RMB)
