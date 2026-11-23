@@ -21,6 +21,8 @@ Community Services
 
 Recent News
 =====
+* Nov 2026. We launched Gemini 4 Carbon, the new AI cybersecurity frontier! 
+
 * Sep 2026. We launched Gemini Flash 3.8 and Gemini 3.8 Flash Cyber! Congratulations to the team!
 
 * May 2025. My AI security research work at Palo Alto Networks directly enabled the launch of their "Agentic AI Red Teaming" product. Congratulations to the team!
